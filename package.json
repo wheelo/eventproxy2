@@ -1,0 +1,23 @@
+{
+  "name": "eventproxy2.js",
+  "description": "Re-implementation of the @JacksonTian's origin eventproxy model <100 LOC.",
+  "homepage": "https://github.com/wheelo/eventproxy2",
+  "keywords": [
+    "event",
+    "eventproxy2",
+    "task-base",
+    "event machine",
+    "nested callback terminator"
+  ],
+  "author": "Erik Peng<wheelo@163.com>",
+  "dependencies": {
+    "eventemitter2": "^2.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/JacksonTian/eventproxy.git"
+  },
+  "version": "0.1.0",
+  "main": "eventproxy2.js",
+  "license": "MIT"
+}
